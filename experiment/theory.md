@@ -33,5 +33,3 @@ The link g-h-i is the foot of the mechanism.
 The following links are helpful in understanding working of Jansen walking mechanism
 
 - [Four-Legged Theo Jansen "Strandbeest" Walking Mechanism](http://scottburns.us/walking-mechanism/)
-
-- [Dynamic Analysis and Modeling of Jansen Mechanism](https://ac.els-cdn.com/S1877705813017529/1-s2.0-S1877705813017529-main.pdf?_tid=2aedaa77-7fda-4aef-874c-5a4484afaa7c&acdnat=1523885032_535e5a438b4b91674b90eb692bd520cc)
