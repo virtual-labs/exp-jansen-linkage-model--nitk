@@ -167,8 +167,11 @@ em:current font size
     width: 8.5rem;
     padding: 0.8rem 0 0.8rem 3.3rem;
   }
-  .main__task-div:nth-child(4) {
+  .main__task-div:nth-child(2) {
     /* margin-bottom: 6rem; */
+  }
+  .variables-sections {
+    padding: 4rem 0;
   }
   .circuit-dia {
     width: 40%;
