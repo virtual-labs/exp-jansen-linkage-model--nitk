@@ -252,9 +252,7 @@ em:current font size
   .tooltip {
     font-size: 1rem;
   }
-  .footer {
-    margin-bottom: 7rem;
-  }
+  
 }
 
 @media (max-width: 27em) {
