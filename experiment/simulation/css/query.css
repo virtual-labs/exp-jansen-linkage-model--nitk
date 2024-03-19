@@ -104,7 +104,7 @@ em:current font size
     height: 3rem;
   }
   .main__task-div:nth-child(4) {
-    margin-bottom: 6rem;
+    /* margin-bottom: 6rem; */
   }
   .canvas {
     display: block;
@@ -168,7 +168,7 @@ em:current font size
     padding: 0.8rem 0 0.8rem 3.3rem;
   }
   .main__task-div:nth-child(4) {
-    margin-bottom: 6rem;
+    /* margin-bottom: 6rem; */
   }
   .circuit-dia {
     width: 40%;
@@ -252,7 +252,6 @@ em:current font size
   .tooltip {
     font-size: 1rem;
   }
-  
 }
 
 @media (max-width: 27em) {
