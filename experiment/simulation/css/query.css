@@ -82,6 +82,7 @@ em:current font size
     justify-content: space-evenly;
     border-radius: 0;
     scroll-behavior: auto;
+    align-items: center;
   }
   .tool-menu {
     list-style: none;
@@ -171,7 +172,7 @@ em:current font size
     /* margin-bottom: 6rem; */
   }
   .variables-sections {
-    padding: 4rem 0;
+    padding: 2.5rem 0;
   }
   .circuit-dia {
     width: 40%;
