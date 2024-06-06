@@ -82,7 +82,6 @@ em:current font size
     justify-content: space-evenly;
     border-radius: 0;
     scroll-behavior: auto;
-    align-items: center;
   }
   .tool-menu {
     list-style: none;
@@ -105,7 +104,7 @@ em:current font size
     height: 3rem;
   }
   .main__task-div:nth-child(4) {
-    /* margin-bottom: 6rem; */
+    margin-bottom: 6rem;
   }
   .canvas {
     display: block;
@@ -124,6 +123,9 @@ em:current font size
     height: 100%;
     border: none;
     border-top: 1px solid rgba(177, 176, 176, 0.855);
+  }
+  .footer {
+    margin-bottom: 7rem;
   }
 }
 
@@ -168,11 +170,8 @@ em:current font size
     width: 8.5rem;
     padding: 0.8rem 0 0.8rem 3.3rem;
   }
-  .main__task-div:nth-child(2) {
-    /* margin-bottom: 6rem; */
-  }
-  .variables-sections {
-    padding: 2.5rem 0;
+  .main__task-div:nth-child(4) {
+    margin-bottom: 6rem;
   }
   .circuit-dia {
     width: 40%;
