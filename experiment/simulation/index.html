@@ -52,17 +52,17 @@
     onload="startsim();varinit();varchange();
 "
   >
-    <div class="title-div-container">
-      <div class="title-div">
-        <div class="logo-div">
-          <a href="#"
-            ><img src="images/logo_nitk.png" alt="Logo" class="logo"
-          /></a>
-        </div>
-        <h1>Jansen Linkage Model</h1>
-      </div>
-    </div>
     <div class="container">
+      <div class="title-div-container">
+        <div class="title-div">
+          <div class="logo-div">
+            <a href="#"
+              ><img src="images/logo_nitk.png" alt="Logo" class="logo"
+            /></a>
+          </div>
+          <h1>Jansen Linkage Model</h1>
+        </div>
+      </div>
       <div class="sidebar">
         <ul class="tool-menu">
           <li class="tool-list">
@@ -152,7 +152,12 @@
                 <div class="var-div">
                   <div class="input-container">
                     <label for="alphaSpinner">&alpha;</label>
-                    <input class="var-spinner" type="number" id="alphaSpinner" name="value" />
+                    <input
+                      class="var-spinner"
+                      type="number"
+                      id="alphaSpinner"
+                      name="value"
+                    />
                     <span>&deg;</span>
                   </div>
                   <div class="var-slider" id="alphaSlider"></div>
@@ -162,7 +167,8 @@
                     <label for="omega2Spinner">&omega;<sub>2</sub> </label>
                     <input
                       class="var-spinner"
-                      id="omega2Spinner" type="number"
+                      id="omega2Spinner"
+                      type="number"
                       name="value"
                     />
                     <span>rad/s</span>
